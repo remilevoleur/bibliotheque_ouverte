@@ -64,7 +64,6 @@
         <resource id="1" name="Zaghraoui" function="SoftwareDevelopment:2" contacts="zaghraoui.aymane@yahoo.fr" phone=""/>
         <resource id="2" name="El Haroui" function="SoftwareDevelopment:2" contacts="jassim.elharoui@gmail.com" phone=""/>
         <resource id="3" name="Salih" function="SoftwareDevelopment:2" contacts="salihayoub1@gmail.com" phone=""/>
-        <resource id="4" name="Hamidi" function="SoftwareDevelopment:2" contacts="a.hamidi@hotmail.fr" phone=""/>
     </resources>
     <allocations>
         <allocation task-id="3" resource-id="0" function="SoftwareDevelopment:2" responsible="false" load="100.0"/>
