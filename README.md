@@ -1,6 +1,6 @@
 # bibliotheque_ouverte
 
-Planning du boulot à faire avant la réunion du 10/04:
+Planning  du boulot à faire avant la réunion du 10/04:
 
 - Salih Ayoub
 On a pensé que tu pouvais faire le directeur de scéance pour la réunion de mardi avec le prof.
