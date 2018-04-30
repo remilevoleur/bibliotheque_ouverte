@@ -1,0 +1,8 @@
+bu:
+    resource: "@BUBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
