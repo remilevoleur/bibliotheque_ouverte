@@ -3,7 +3,7 @@
 Planning  du  boulot à faire avant la réunion du 10/04:
 
 - Salih Ayoub
-Faire un modèle et décider d'une structure pour le rapport de stage.
+Faire un modèle et  décider d'une structure pour le rapport de stage.
 Infos sur le logo
 
 - Hamidi Ayoub
